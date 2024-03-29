@@ -1,6 +1,12 @@
 # Linux Privilege Escalation - Enumeration Commands
 
-This repository contains a collection of useful Linux commands for performing enumeration tasks, particularly for privilege escalation scenarios. These commands help gather information about the system, processes, users, network, and files. It's essential to exercise caution and ensure proper authorization before executing any actions.
+This repository contains a collection of useful Linux commands for performing enumeration tasks, particularly for privilege escalation scenarios. These commands help gather information about the system, processes, users, network, and files. It's essential to exercise caution and ensure proper authorization before executing any actions. 
+<center>
+<a href="https://twitter.com/th3wantedboy">
+      <img src="https://img.shields.io/twitter/follow/th3wantedboy?style=social">
+  </a>
+      </center>
+      <br/>
 
 ## Basic System Info:
 
@@ -58,3 +64,9 @@ This repository contains a collection of useful Linux commands for performing en
 
 Feel free to use these commands to gather information effectively. These are basic commands, and there are more advanced techniques available for system enumeration.
 Always ensure proper authorization and use caution when performing any actions on a system.
+<center>
+<a href="https://twitter.com/th3wantedboy">
+      <img src="https://img.shields.io/twitter/follow/th3wantedboy?style=social">
+  </a>
+      </center>
+      <br/>
